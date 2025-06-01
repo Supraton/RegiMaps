@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nom de l'aplicació -->
+    <string name="app_name">RegiMaps</string>
+
+    <!-- Textos dels botons -->
+    <string name="ubicacio">Ubicació</string>
+    <string name="afegir_punt">Afegir Punt</string>
+    <string name="carregar_punts">Carregar punts</string>
+    <string name="netejar_punts">Netejar punts</string>
+    <string name="dibuixar_poligons">Dibuixar polígons</string>
+    <string name="tornar_menu">Tornar al menú</string>
+
+    <!-- Textos de l'aplicació -->
+    <string name="title_activity_maps">Mapa</string>
+    <string name="view_saved_points">Veure punts guardats</string>
+    <string name="view_polygons">Veure polígons marcats</string>
+    <string name="go_to_map">Anar al mapa</string>
+</resources>
